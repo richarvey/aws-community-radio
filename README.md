@@ -1,6 +1,6 @@
 ![AWS Community Radio Logo](./logos/communityradio-transparent.png "AWS Community Radio Logo")
 # aws-community-radio
-AWS community radio is an independant channel for the community by the community. It aims to provide the latest news and insightful thoughts on AWS and cloud computing in general. We want you to be part of this so if you have an idea of a topic or wish to speak please open an issue and one of the admins will be in touch. Theres certain rules as you can imagine, no direct product advertising, we wanto keep this on the tech so please aim your talk at that level.
+AWS community radio is an independent channel for the community by the community. It aims to provide the latest news and insightful thoughts on AWS and cloud computing in general. We want you to be part of this so if you have an idea of a topic or wish to speak please open an issue and one of the admins will be in touch. There are certain rules as you can imagine, no direct product advertising, we want to keep this on the tech so please aim your talk at that level.
 
 You can open an issue here to propose a new talk: https://s3r.io/XRsZT0
 
