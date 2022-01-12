@@ -26,11 +26,13 @@ Current team members:
 - John Mylchreest
 - Jason Gregson
 
-## Sponsorship
+## Individual Sponsorship
 Anyone can sponsor the group right here on github. Our costs of running include:
 
 - equipment (cameras, sound, lighting etc)
 - streaming services (restream.io)
 - Travel (after covid)
 
-We currently have no sponsors to list.
+## Company Sponsorship
+
+Company sponsorship will be offered soon in packages for the year. We'll include shout outs, invitations to conversations on air and logo placement.
