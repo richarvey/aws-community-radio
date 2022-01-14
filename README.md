@@ -17,14 +17,24 @@ __Remember:__
 This group is respectful and tollerent of others. We have a defined Code of conduct here: https://s3r.io/1QubWQ
 
 ## Shows
-We are currently planning the show schedule but are happy to announce that we'll have a weekly news catchup short post everyweek and the longershows will be announced. They will remain on YouTube and we'll also create a podcast if people are interested.
+We are currently planning the show schedule but are happy to announce that we'll have a weekly news catchup short post everyweek and the longershows will be announced. They will remain on YouTube and we'll also create a podcast if people are interested.#
+
+- The Weekly Show with Ric Harvey
+  - Review of this weeks news and announcements from AWS
+- Monthly meetup
+  - Fireside chat on specialised topics
+- The Specials
+  - Special guests co-present on a number of topics.
+
+You can access the video content on YouTube: https://s3r.io/acr
+
+And Podcasts are avaiable via your prefered player, the RSS is here: https://awscommunityradio.buzzsprout.com/ #
 
 ## Radio team
 Current team members:
 
 - Ric Harvey
 - John Mylchreest
-- Jason Gregson
 
 ## Individual Sponsorship
 Anyone can sponsor the group right here on github. Our costs of running include:
