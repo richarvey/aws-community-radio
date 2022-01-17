@@ -8,10 +8,14 @@ assignees: ''
 ---
 
 **Is your talk about technology on AWS?**
-A clear and concise description of what the talk is about. 
+A clear and concise description of what the talk is about Make sure you include:
+- Synopsis
+- Promise not to do a product pitch
 
 **How long is your talk?**
-Please try and keep talks to 25 mins maximum
+Please try and keep talks to:
+- 25 mins maximum
+- We'd like to record a 5 min introduction with you
 
 **Can you pre-record the content?**
 When third parties do a presentation we like to have pre-recorded content. This free's up the presenter to answer questions in the chat and then take some live questions later.
