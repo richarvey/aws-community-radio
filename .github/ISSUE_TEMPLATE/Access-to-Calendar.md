@@ -1,6 +1,4 @@
-| name	| about	| title	| labels	| assignees |
-|=======|=======|=======|=========|===========|
-| Calendar Access | | | | |
+
 
 
 ## Calendar Access
